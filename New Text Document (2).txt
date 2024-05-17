@@ -1,0 +1,11 @@
+
+quick
+merge
+heap
+
+binomial tree
+
+graph with color 
+
+deap
+symmetric minimun maximum heap
